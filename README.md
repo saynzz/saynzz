@@ -46,16 +46,17 @@ EN: Memecoin in the **TON** ecosystem with a unique economy:
 
 ---
 
-### 🏦 ЦифроБанк | Digital Bank (CryptoBank)  
-RU: Проект цифрового (крипто) банка в Казахстане и ОАЭ:  
-- Финансовая модель, AML/KYC политика  
-- Регистрация через МФЦА  
-- Собственная платформа для управления счетами и криптовалютами  
+### 🔗 Блокчейн-платформа | Blockchain Platform  
+RU: Собственная экосистема для работы с цифровыми активами и сервисами:  
+- Поддержка смарт-контрактов и токенов  
+- Интеграция с **TON**  
+- Инструменты для децентрализованных приложений (dApps)  
 
-EN: Digital (crypto) bank project in Kazakhstan and UAE:  
-- Financial model, AML/KYC policy  
-- Registration through AIFC (Kazakhstan)  
-- Own platform for managing accounts and cryptocurrencies  
+EN: Custom ecosystem for digital assets and services:  
+- Support for smart contracts and tokens  
+- Integration with **TON**  
+- Tools for decentralized applications (dApps)  
+  
 
 ---
 
