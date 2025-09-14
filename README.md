@@ -19,7 +19,8 @@ My main interests are **smart contracts, Telegram bots, accounting systems, digi
 ## 🚀 Навыки и технологии | Skills & Technologies  
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
 ![TON](https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -83,6 +84,34 @@ EN: Retail chain simulation:
 - Deliveries, returns, transfers between stores  
 - Report printing, online price changes, barcodes  
 - Flexible accounting and analytics system  
+
+---
+
+###🌐 QazChain (Solana Day Hackathon) RU: DeFi-протокол на Solana с полной симуляцией свопов и аналитикой:
+- Обмен SOL → USDC через Orca и Raydium
+- Дашборд с TVL, APY, объемами ликвидности
+- Голосование за предложения по доходности
+- Система ачивок и симуляция лендинга/заимствования 
+
+EN: DeFi protocol on Solana with full swap simulation and analytics:
+- Swap SOL → USDC via Orca and Raydium
+- Dashboard with TVL, APY, liquidity volumes
+- Governance voting on yield proposals
+- Achievements system and lending/borrowing simulation
+
+---
+
+###🏦 QazTin (BCC Bank Case, Decentrathon) RU: Система персонализации банковских продуктов:
+- Обработка 60+ Excel/CSV-файлов с транзакциями
+- Извлечение фичей и скоринг продуктов
+- Генерация push-уведомлений с локальным стилем
+- Визуализация баллов и прозрачная логика выбора
+
+EN: Banking product personalization system:
+- Processing 60+ Excel/CSV transaction files
+- Feature extraction and product scoring
+- Push notification generation with local tone
+- Score visualization and transparent product logic
 
 ---
 
